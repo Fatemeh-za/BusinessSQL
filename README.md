@@ -1,4 +1,4 @@
-# Data-Analytics-SQL
+# B_Analytics_SQL
 
 This repository contains SQL scripts for automating database maintenance tasks and performing sales analysis on the Northwind database. It includes triggers, stored procedures, SQL Server Agent jobs, views, and analytical queries.
 
